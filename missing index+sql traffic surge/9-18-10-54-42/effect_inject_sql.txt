@@ -1,0 +1,1 @@
+select count(*) from orders where o_c_id > 1225;

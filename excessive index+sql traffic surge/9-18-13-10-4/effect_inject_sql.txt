@@ -1,0 +1,1 @@
+Update order_by_test.table_245215_undef_undef set col_bigint_key_signed = col_bigint_key_signed - 1 where col_bigint_key_signed > 9687;

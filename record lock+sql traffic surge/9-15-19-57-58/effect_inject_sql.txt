@@ -1,0 +1,1 @@
+Update stock set s_w_id = s_w_id + 0 where s_w_id > 80;

@@ -1,0 +1,1 @@
+Update new_orders set no_o_id = no_o_id + 0 where no_o_id > 12530;

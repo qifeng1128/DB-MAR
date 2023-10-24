@@ -1,0 +1,1 @@
+select count(*) from stock where s_remote_cnt > 0;

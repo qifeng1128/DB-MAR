@@ -1,0 +1,1 @@
+Update history set h_w_id = h_w_id + 0 where h_w_id > 80;

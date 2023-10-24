@@ -1,0 +1,1 @@
+Update order_by_test.table_300000_undef_undef set col_tinyint_key_signed = col_tinyint_key_signed + 0 where col_tinyint_key_signed > 15;

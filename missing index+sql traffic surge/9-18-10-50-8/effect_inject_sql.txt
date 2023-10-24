@@ -1,0 +1,1 @@
+select count(*) from history where h_d_id > 3;
